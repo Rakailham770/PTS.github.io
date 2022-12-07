@@ -1,0 +1,68 @@
+*, html, body{
+    padding: 0;
+    margin: 0;
+}
+.awal{
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+}
+.awal2{
+    background-color: darkslategray;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 15px;
+    width: 1500px;
+    height: 80px;
+}
+.pertengahan{
+    color: white;
+    padding: 15px;
+    font-size: 1.5em;
+    flex-direction: row;
+    text-transform: capitalize;
+}
+.akhir{
+    color: white;
+    font-weight: 400;
+    padding: 4px;
+}
+.pertengahan2{
+    color:red;
+    padding: 4px;
+}
+.link{
+    justify-content: center;
+    display:flex;
+    align-items: center;
+    color
+}
+.link>li{
+    list-style-type: none;
+    padding: 15px;
+}
+ujian>li>a{
+    text-decoration: none;
+    flex-direction: row;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: white;
+}
+.raka{
+    font-style: italic;
+}
+.ilham{
+    font-style: italic;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ilm{
+    font-size: 10px;
+    color: grey;
+    font-style: italic;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
